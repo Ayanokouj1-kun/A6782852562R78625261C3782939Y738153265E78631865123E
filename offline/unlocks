@@ -1,0 +1,51 @@
+{
+  "unlocks": [
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 0,
+          "max": 0
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 0,
+          "max": 0
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 0,
+          "max": 0
+        }
+      ]
+    }
+  ]
+}
